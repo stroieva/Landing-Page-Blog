@@ -154,6 +154,11 @@
     .buttons-footer {
         justify-content: flex-end; 
     }
+
+    label {
+        flex: 1;
+        max-width: 48%;
+    }
 }
 
 /* laptop - md */
