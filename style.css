@@ -11,8 +11,9 @@ body {
 }
 
 section {
-        margin-top: -80px;
-        padding-top: 80px;
+        margin-top: -20px;
+        padding-top: 20px;
+        overflow: hidden;
 }
 
 
@@ -29,10 +30,6 @@ header {
     position: sticky;
     top: 0;
     z-index: 100;
-}
-
-section {
-    overflow: hidden;
 }
 
 .menu {
